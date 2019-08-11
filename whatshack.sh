@@ -7,7 +7,7 @@ echo "
 #     Exploiter    # sinitesini@gmail.com
 ####################
 
-Copyright (c) 2018 ceweberbatang Ganteng";
+Copyright (c) 2018 sinitesinin nini";
 echo "";
 read -p "Nomer Kamu (+62xxxx)=> " nomer;
 read -p "Nomer Target (+62xxxx) => " target;
